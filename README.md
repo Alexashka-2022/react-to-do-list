@@ -1,1 +1,1 @@
-# react-to-do-list
+#pet-проект "React to-do-list"
